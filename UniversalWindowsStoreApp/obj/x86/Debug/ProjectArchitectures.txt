@@ -1,0 +1,1 @@
+C:\Users\User\Source\Repos\UniversalWindowsStoreApp\UniversalWindowsStoreApp\UniversalWindowsStoreApp.csproj;x86
